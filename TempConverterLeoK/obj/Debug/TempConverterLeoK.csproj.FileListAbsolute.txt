@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\TempConverterLeoK\TempConverterLeoK\bin\Debug\TempConverterLeoK.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\TempConverterLeoK\TempConverterLeoK\bin\Debug\TempConverterLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\TempConverterLeoK\TempConverterLeoK\bin\Debug\TempConverterLeoK.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\TempConverterLeoK\TempConverterLeoK\obj\Debug\TempConverterLeoK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\TempConverterLeoK\TempConverterLeoK\obj\Debug\TempConverterLeoK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\TempConverterLeoK\TempConverterLeoK\obj\Debug\TempConverterLeoK.frmTempConverterLeoK.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\TempConverterLeoK\TempConverterLeoK\obj\Debug\TempConverterLeoK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\TempConverterLeoK\TempConverterLeoK\obj\Debug\TempConverterLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 4 (Procedures & Functions)\TempConverterLeoK\TempConverterLeoK\obj\Debug\TempConverterLeoK.pdb
